@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# API-Keys files and venv
+.env
+venv
+app/services/llms-464415-c6cba40c15ce.json
+
